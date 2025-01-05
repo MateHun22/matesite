@@ -11,5 +11,5 @@ function show() {
 }
 
 function close() {
-    headerRight.style.top = '-100%';
+    headerRight.style.top = '-110vh';
 }
