@@ -1,0 +1,21 @@
+main .project-container {
+    width: 100%;
+    margin: 20px;
+}
+
+.project-container .project-password {
+    width: 400px;
+    height: 300px;
+    background-color: #29313d;
+}
+
+.project-style-h3 {
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 0;
+}
+
+.project-style-h4 {
+    padding-left: 20px;
+    margin-top: 0;
+}
