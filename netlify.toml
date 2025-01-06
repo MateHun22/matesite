@@ -1,16 +1,16 @@
 [[redirects]]
   from = "/about"
-  to = "/pages/about.html"
+  to = "/src/pages/about.html"
   status = 200
 
 [[redirects]]
   from = "/contact"
-  to = "/pages/contact.html"
+  to = "/src/pages/contact.html"
   status = 200
 
 [[redirects]]
   from = "/projects"
-  to = "/pages/projects.html"
+  to = "/src/pages/projects.html"
   status = 200
 
 [[redirects]]
